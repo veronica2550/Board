@@ -3,7 +3,7 @@
 1. IDE: IntelliJ IDEA Community
 2. Spring Boot
 3. JDK
-4. postgresQL
+4. PostgreSQL
 5. Spring Data JPA
 6. Thymeleaf
 
